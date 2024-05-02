@@ -154,7 +154,7 @@ address {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/background-hero.jpg);
+    url(../images/background-hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -401,7 +401,7 @@ address {
 
 .page-footer {
   background-color: #2e2f42;
-  max-width: 1440px;
+  width: 1440px;
   margin-left: auto;
   margin-right: auto;
   padding-top: 100px;
